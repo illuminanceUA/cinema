@@ -5,9 +5,9 @@ Coursework
   
   Programm: 
   
-  OpenServer
-  PHP 7.4
-  DB: MYSQLI 5.7 +
+  OpenServer;
+  PHP 7.4;
+  DB: mysqli;;
 
 <B>File db: films.sql<B>
 <h4>Image project</h4>
