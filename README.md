@@ -1,8 +1,15 @@
 # cinema
 Coursework
 
-DB: mysqli
-file db: films.sql
+<H3>Dependencies:<H3>
+  
+  Programm: OpenServer
+  PHP 7.4
+  DB: MYSQLI 5.7 +
+
+<B>File db: films.sql<B>
+<h4>Image project</h4>
+  
 <H5>Главная</H5>
 <img src="readme/Screenshot_1.png" alt="My cool logo"/>
 <H5>Главная</H5>
