@@ -3,7 +3,9 @@ Coursework
 
 <H3>Dependencies:<H3>
   
-  Programm: OpenServer
+  Programm: 
+  
+  OpenServer
   PHP 7.4
   DB: MYSQLI 5.7 +
 
